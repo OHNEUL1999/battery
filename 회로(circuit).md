@@ -7,6 +7,7 @@
   - [옴의 법칙 | Ohm's Law](#옴의-법칙--ohms-law)
 - [회로 해석 | Circuit Analysis](#회로-해석--circuit-analysis)
   - [회로해석을 위한 기본단위 | Fundamental Units in Circuit Analysis and Design](#회로해석을-위한-기본단위--fundamental-units-in-circuit-analysis-and-design)
+  - [키르히호프의 법칙 | Kirchhoff's Law](#키르히호프의-법칙--kirchhoffs-law)
 
 ## 용어 | Terminology
 
@@ -107,15 +108,17 @@
   : The smallest closed loop in a circuit where no other loops exist within it
 
 ### 키르히호프의 법칙 | Kirchhoff's Law
-#### KCL - 전류 법칙 | Current Law
-- 노드에 기반(Based on Node)
+- **KCL - 전류 법칙 | Current Law**   
+  : 노드에 기반(Based on Node)  
 
--> 노드로 흐르는 전류가 0이 되어야 함.  
--> the currents flowing into a node must add up to zero.  
-*노드 기준 들어오는 전류의 합 = 나가는 전류의 합*
+  -> 노드로 흐르는 전류가 0이 되어야 함.  
+  -> the currents flowing into a node must add up to zero.  
+  *노드 기준 들어오는 전류의 합 = 나가는 전류의 합*
 
-#### KVL - 전압 법칙 | Voltage Law
-- 폐회로에 기반(Based on Closed Loop) 
+- **KVL - 전압 법칙 | Voltage Law**   
+  : 폐회로에 기반(Based on Closed Loop) 
 
--> 회로의 루프를 돌면서 각 소자의 전압의 합이 0이 되어야 함.  
--> if you travel around any loop in a circuit, the voltages across the elements add up to zero.
+  -> 회로의 루프를 돌면서 각 소자의 전압의 합이 0이 되어야 함.  
+  -> if you travel around any loop in a circuit, the voltages across the elements add up to zero.
+
+
