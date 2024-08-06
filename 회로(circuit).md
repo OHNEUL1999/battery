@@ -1,5 +1,9 @@
 # 회로 | Circuit
 
+- [용어 | Terminology](#-----terminology)
+- [소자 | Element](#-----element)
+- [전원 | Source](#-----source)
+
 ## 용어 | Terminology
 
 | 용어(Terminology) | 설명(Description) | 기호(Symbol) | 단위(Unit) | 공식(Formula) |
@@ -17,10 +21,19 @@
 ![소자](./images/소자.png)
 
 - **수동 소자 | Passive Element**  
-  : 전압을 낮춤
+  : 전압을 낮춤  
   : Reduces voltage  
   예) 저항(R), 인덕터(L), 커패시터(C)  
   ex) Resistor (R), Inductor (L), Capacitor (C)
+  ```
+  - 인덕터(Inductor) : 전자기장을 이용한 전자부품, 과도전류의 변화를 이용해서 전압의 변화를 유도해내는 전자부품
+
+  - 커패시터(Capacitor) : 전자회로에서 전기를 일시적으로 저장하는 장치
+    축전기 혹은 콘덴서(Condenser)라고도 부름
+  ```
+  => 인덕터 : **전압**의 변화에 저항  
+  => 커패시터 : **전류**의 변화에 저항  
+  하여 급격한 변화를 막아주는 역할을 함.
 
 ---
 - **능동 소자 | Active Element**  
@@ -32,3 +45,22 @@
 ---
 - **저항 소자 | Resistor**  
 ![저항값 읽기](./images/저항값.png)
+
+## 전원 | Source
+
+- **독립 전원 | Independent Source**  
+  : 다른 소자의 에너지 값에 상관없이 그 자체가 가지고 있는 에너지를 직접 혹은 독립적으로 공급하는 전원  
+  : A power source that provides energy directly or independently, regardless of other elements' energy values  
+  예) 건전지  
+  ex) Battery
+  ![독립 전원](./images/독립전원.png)
+
+---
+
+- **종속 전원 | Dependent Source**  
+  : 다른 소자의 상태에 따라 그 전압이나 전류의 값을 조정하여 에너지를 공급하는 전원  
+  : A power source that supplies energy by adjusting its voltage or current based on the state of other elements  
+  예) 전압 제어 전압원 (VCVS), 전류 제어 전압원 (CCVS)  
+  ex) Voltage-controlled voltage source (VCVS), Current-controlled voltage source (CCVS)
+  ![종속 전원](./images/종속전원.png)
+  ![종속 전원 종류](./images/종속전원%20종류.png)
