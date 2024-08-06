@@ -4,6 +4,9 @@
 - [소자 | Element](#소자--element)
 - [전원 | Source](#전원--source)
 - [전압 | Voltage](#전압--voltage)
+  - [옴의 법칙 | Ohm's Law](#옴의-법칙--ohms-law)
+- [회로 해석 | Circuit Analysis](#회로-해석--circuit-analysis)
+  - [회로해석을 위한 기본단위 | Fundamental Units in Circuit Analysis and Design](#회로해석을-위한-기본단위--fundamental-units-in-circuit-analysis-and-design)
 
 ## 용어 | Terminology
 
@@ -69,7 +72,7 @@
 ## 전압 | Voltage
 접지 연결 상태에 따라 분류
 
-- **접지 전압 | Grounded Voltage**
+- **접지 전압 | Grounded Voltage**  
   : 접지에 직접 연결되어 있는 전압으로, 접지지점의 전압 값을 0으로 했을 때의 상대적인 단자 전압 값  
   : Voltage directly connected to ground, relative to the voltage at the ground point when its value is considered as 0.  
   예) 가정용 전원, 계측기 전원  
@@ -77,7 +80,7 @@
 
 ----
 
-- **부유 전압 | Floating Voltage**
+- **부유 전압 | Floating Voltage**  
   : 직접 접지에 연결되어 있지 않은 전압   
   : Voltage not directly connected to ground.
   예) 건전지  
@@ -86,3 +89,19 @@
 ### 옴의 법칙 | Ohm's Law
 - 직류 및 실효치 (DC & RMS: Root Mean Square) : V = IR
 - 교류 (AC) : v = iR
+
+## 회로 해석 | Circuit Analysis
+
+### 회로해석을 위한 기본단위 | Fundamental Units in Circuit Analysis and Design
+
+- **노드(Node)**  
+  : 여러 개의 소자가 만나는 지점  
+  : Point connected with several Elements
+
+- **폐루프(Closed Loop)**  
+  : 여러 개의 소자가 연결되어 하나의 닫힌 고리를 만드는 것  
+  : Path formed by interconnected components creating a closed loop
+
+- **메시(Mesh)**  
+  : 폐루프 중에서 그 루프 안에 또 다른 폐루프가 없는 가장 작은 단위 
+  : The smallest closed loop in a circuit where no other loops exist within it
