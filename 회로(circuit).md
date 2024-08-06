@@ -1,8 +1,9 @@
 # 회로 | Circuit
 
-- [용어 | Terminology](#-----terminology)
-- [소자 | Element](#-----element)
-- [전원 | Source](#-----source)
+- [용어 | Terminology](#용어--terminology)
+- [소자 | Element](#소자--element)
+- [전원 | Source](#전원--source)
+- [전압 | Voltage](#전압--voltage)
 
 ## 용어 | Terminology
 
@@ -64,3 +65,24 @@
   ex) Voltage-controlled voltage source (VCVS), Current-controlled voltage source (CCVS)
   ![종속 전원](./images/종속전원.png)
   ![종속 전원 종류](./images/종속전원%20종류.png)
+
+## 전압 | Voltage
+접지 연결 상태에 따라 분류
+
+- **접지 전압 | Grounded Voltage**
+  : 접지에 직접 연결되어 있는 전압으로, 접지지점의 전압 값을 0으로 했을 때의 상대적인 단자 전압 값  
+  : Voltage directly connected to ground, relative to the voltage at the ground point when its value is considered as 0.  
+  예) 가정용 전원, 계측기 전원  
+  ex) Household power, instrument power
+
+----
+
+- **부유 전압 | Floating Voltage**
+  : 직접 접지에 연결되어 있지 않은 전압   
+  : Voltage not directly connected to ground.
+  예) 건전지  
+  ex) Battery
+
+### 옴의 법칙 | Ohm's Law
+- 직류 및 실효치 (DC & RMS: Root Mean Square) : V = IR
+- 교류 (AC) : v = iR
