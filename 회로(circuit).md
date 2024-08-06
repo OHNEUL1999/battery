@@ -82,7 +82,7 @@
 
 - **부유 전압 | Floating Voltage**  
   : 직접 접지에 연결되어 있지 않은 전압   
-  : Voltage not directly connected to ground.
+  : Voltage not directly connected to ground.   
   예) 건전지  
   ex) Battery
 
@@ -103,5 +103,19 @@
   : Path formed by interconnected components creating a closed loop
 
 - **메시(Mesh)**  
-  : 폐루프 중에서 그 루프 안에 또 다른 폐루프가 없는 가장 작은 단위 
+  : 폐루프 중에서 그 루프 안에 또 다른 폐루프가 없는 가장 작은 단위   
   : The smallest closed loop in a circuit where no other loops exist within it
+
+### 키르히호프의 법칙 | Kirchhoff's Law
+#### KCL - 전류 법칙 | Current Law
+- 노드에 기반(Based on Node)
+
+-> 노드로 흐르는 전류가 0이 되어야 함.  
+-> the currents flowing into a node must add up to zero.  
+*노드 기준 들어오는 전류의 합 = 나가는 전류의 합*
+
+#### KVL - 전압 법칙 | Voltage Law
+- 폐회로에 기반(Based on Closed Loop) 
+
+-> 회로의 루프를 돌면서 각 소자의 전압의 합이 0이 되어야 함.  
+-> if you travel around any loop in a circuit, the voltages across the elements add up to zero.
