@@ -9,6 +9,7 @@
   - [회로해석을 위한 기본단위 | Fundamental Units in Circuit Analysis and Design](#회로해석을-위한-기본단위--fundamental-units-in-circuit-analysis-and-design)
   - [키르히호프의 법칙 | Kirchhoff's Law](#키르히호프의-법칙--kirchhoffs-law)
   - [노드 해석법 | Node Analysis](#노드-해석법--node-analysis)
+  - [회로 기호 | Electronic Circuit Symbols](#회로-기호--electronic-circuit-symbols)
 
 ## 용어 | Terminology
 
@@ -137,4 +138,19 @@
   : 전류전원이 두 개의 메시 사이에 있는
 경우 슈퍼 메시를 이용 (KVL 적용X)
 
+### 회로 기호 | Electronic Circuit Symbols
 
+- 저항 기호
+![저항 기호](./images/저항%20기호.png)
+- 커패시터,인덕터 기호
+![커패시터,인덕터 기호](./images/커패시터,%20인덕터%20기호.png)
+- 트랜지스터 기호
+![트랜지스터 기호](./images/트랜지스터%20기호.png)
+- 다이오드 기호
+![다이오드 기호](./images/다이오드%20기호.png)
+- 도선, 회로 반환 기호
+![도선, 회로 반환 기호](./images/도선,%20회로%20반환%20기호.png)
+- 소스 기호
+![소스 기호](./images/소스%20기호.png)
+- 스위치 기호
+![스위치 기호](./images/스위치%20기호.png)
