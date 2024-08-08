@@ -25,7 +25,7 @@
 | 전력(Power) | 단위 시간당 소비되는 에너지의 양<br>Amount of energy consumed per unit time. | P | [W]watt | `P = V * I` 또는 `P = I^2 * R` 또는 `P = V^2 / R` |
 
 ## 소자 | Element
-![소자](./images/소자.png)
+![소자](./images/circuit/소자.png)
 
 - **수동 소자 | Passive Element**  
   : 전압을 낮춤  
@@ -51,7 +51,7 @@
 
 ---
 - **저항 소자 | Resistor**  
-![저항값 읽기](./images/저항값.png)
+![저항값 읽기](./images/circuit/저항값.png)
 
 ## 전원 | Source
 
@@ -60,7 +60,7 @@
   : A power source that provides energy directly or independently, regardless of other elements' energy values  
   예) 건전지  
   ex) Battery
-  ![독립 전원](./images/독립전원.png)
+  ![독립 전원](./images/circuit/독립전원.png)
 
 ---
 
@@ -69,8 +69,8 @@
   : A power source that supplies energy by adjusting its voltage or current based on the state of other elements  
   예) 전압 제어 전압원 (VCVS), 전류 제어 전압원 (CCVS)  
   ex) Voltage-controlled voltage source (VCVS), Current-controlled voltage source (CCVS)
-  ![종속 전원](./images/종속전원.png)
-  ![종속 전원 종류](./images/종속전원%20종류.png)
+  ![종속 전원](./images/circuit/종속전원.png)
+  ![종속 전원 종류](./images/circuit/종속전원%20종류.png)
 
 ## 전압 | Voltage
 접지 연결 상태에 따라 분류
@@ -141,16 +141,16 @@
 ### 회로 기호 | Electronic Circuit Symbols
 
 - 저항 기호
-![저항 기호](./images/저항%20기호.png)
+![저항 기호](./images/circuit/저항%20기호.png)
 - 커패시터,인덕터 기호
-![커패시터,인덕터 기호](./images/커패시터,%20인덕터%20기호.png)
+![커패시터,인덕터 기호](./images/circuit/커패시터,%20인덕터%20기호.png)
 - 트랜지스터 기호
-![트랜지스터 기호](./images/트랜지스터%20기호.png)
+![트랜지스터 기호](./images/circuit/트랜지스터%20기호.png)
 - 다이오드 기호
-![다이오드 기호](./images/다이오드%20기호.png)
+![다이오드 기호](./images/circuit/다이오드%20기호.png)
 - 도선, 회로 반환 기호
-![도선, 회로 반환 기호](./images/도선,%20회로%20반환%20기호.png)
+![도선, 회로 반환 기호](./images/circuit/도선,%20회로%20반환%20기호.png)
 - 소스 기호
-![소스 기호](./images/소스%20기호.png)
+![소스 기호](./images/circuit/소스%20기호.png)
 - 스위치 기호
-![스위치 기호](./images/스위치%20기호.png)
+![스위치 기호](./images/circuit/스위치%20기호.png)
