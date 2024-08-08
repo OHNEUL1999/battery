@@ -8,6 +8,7 @@
 - [회로 해석 | Circuit Analysis](#회로-해석--circuit-analysis)
   - [회로해석을 위한 기본단위 | Fundamental Units in Circuit Analysis and Design](#회로해석을-위한-기본단위--fundamental-units-in-circuit-analysis-and-design)
   - [키르히호프의 법칙 | Kirchhoff's Law](#키르히호프의-법칙--kirchhoffs-law)
+  - [노드 해석법 | Node Analysis](#노드-해석법--node-analysis)
 
 ## 용어 | Terminology
 
@@ -108,17 +109,32 @@
   : The smallest closed loop in a circuit where no other loops exist within it
 
 ### 키르히호프의 법칙 | Kirchhoff's Law
-- **KCL - 전류 법칙 | Current Law**   
+- **KCL - 키르히호프의 전류 법칙 | Kirchhoff's Current Law**   
   : 노드에 기반(Based on Node)  
 
   -> 노드로 흐르는 전류가 0이 되어야 함.  
   -> the currents flowing into a node must add up to zero.  
   *노드 기준 들어오는 전류의 합 = 나가는 전류의 합*
 
-- **KVL - 전압 법칙 | Voltage Law**   
+- **KVL - 키르히호프의 전압 법칙 | Kirchhoff's Voltage Law**   
   : 폐회로에 기반(Based on Closed Loop) 
 
   -> 회로의 루프를 돌면서 각 소자의 전압의 합이 0이 되어야 함.  
   -> if you travel around any loop in a circuit, the voltages across the elements add up to zero.
+
+### 노드 해석법 | Node Analysis
+- 슈퍼 노드 | Super Node  
+  : 부유전압전원이 연결되어 있는
+노드가 2개 일 때 슈퍼노드를 이용
+
+1. 슈퍼노드에 속해 있는 전압원은 당연히 node의 전압을 구하기 위해 필요한 관계식을 제공해준다.
+2. 슈퍼노드 그 자체로는 전압을 가지지 않는다. (계산된 값은 O)
+3. 슈퍼노드 회로를 해석하기 위해서는 KCL과 KVL 둘 다를 사용해야 한다.
+
+### 메시 해석법 | Mesh Analysis
+
+- 슈퍼 메시 | Super Mesh  
+  : 전류전원이 두 개의 메시 사이에 있는
+경우 슈퍼 메시를 이용 (KVL 적용X)
 
 
