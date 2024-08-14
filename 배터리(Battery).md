@@ -4,6 +4,9 @@
 - [1차 전지, 2차 전지 | Primary Cell, Secondary Cell](#1차-전지-2차-전지--primary-cell-secondary-cell)
 - [리튬이온 전지형태별 종류 | Li-Ion Types](#리튬이온-전지형태별-종류--li-ion-types)
     - [Jelly Roll - Stacking vs Winding](#jelly-roll---stacking-vs-winding)
+- [리튬이온 전지 구조 | Li-Ion Cell Structure](#리튬이온-전지-구조--li-ion-cell-structure)
+    - [방전 과정 | Discharge Process](#방전-과정--discharge-process)
+    - [이온과 전자의 이동 | Ion and Electron Movement](#이온과-전자의-이동--ion-and-electron-movement)
 
 ## 배터리의 단위 | Battery Unit
 
@@ -55,3 +58,45 @@
 <br>압착하지 않은 경우(주로 원통형) 저항이 일정함
 
 * 리튬의 전착 (Electroplating) : 음극의 대면이 양극보다 큼! 아닐 경우 충전시 양극에서 빠져나운 리튬이 음극의 모서리에서 석출됨
+
+## 리튬이온 전지 구조 | Li-Ion Cell Structure
+![리튬이온 전지 구조 | Li-Ion Cell Structure
+](./images/battery/li-ion_structure.png)
+
+|구성 요소|역할|소재|
+|---|---|--|
+|양극(Cathode)|외부 導線으로부터 전자를 받아 양극 활물질 이 환원되는 전극<br>The positive or oxidizing electrode that acquires electrons from the external circuit and is reduced during the electrochemical reaction|알루미늄(Aluminium)|
+|음극(Anode)|음극 활물질(흑연, Carbon)이 산화되면서 導線으로 전자를 방출하는 전극<br>The negative or reducing electrode that releases electrons to the external circuit and oxidizes during the electrochemical reaction|구리(Copper)|
+|분리막(Seperator)|양극과 음극의 전기적 접촉을 막는 다공성 막<br>A porous membrane that prevents electrical contact between the cathode and anode|폴리에틸렌 (Polyethylene) / 폴리프로필렌 (Polypropylene)|
+|전해질(Electrolyte)|양극과 음극간의 이온 이동을 가능케 하는 중간 매개체<br>A medium that enables ion movement between the anode and cathode|Liquid, Gel, Solid 형태의 화합물|
+|케이스(Case)|셀 보호<br>Protect Cell|Metal Can, Aluminium Pouch|
+
+### 방전 과정 | Discharge Process
+
+- **양극 (Cathode)**: 양극은 외부 전선으로부터 전자를 받아 양극 활물질이 환원되는 전극입니다. 방전 시, 양극에서 환원 반응이 일어나면서 전자가 외부 회로를 통해 음극으로 이동합니다. 양극의 소재로는 일반적으로 알루미늄이 사용됩니다.
+  
+  **Cathode**: The cathode acquires electrons from the external circuit and is reduced during the electrochemical reaction. During discharge, reduction reactions occur at the cathode, and electrons move through the external circuit to the anode. The cathode is typically made of aluminium.
+
+- **음극 (Anode)**: 음극은 전자를 방출하며 산화 반응이 일어나는 전극입니다. 방전 과정에서 음극의 활물질(흑연, Carbon 등)이 산화되면서 전자를 외부 회로로 방출합니다. 음극의 소재로는 주로 구리가 사용됩니다.
+
+  **Anode**: The anode releases electrons and undergoes oxidation. During discharge, the active material in the anode (such as graphite or carbon) oxidizes, releasing electrons to the external circuit. The anode is typically made of copper.
+
+- **분리막 (Separator)**: 양극과 음극 사이에 위치하여 전기적 접촉을 막는 다공성 막입니다. 이는 전극 간의 직접적인 접촉을 방지하여 단락을 방지합니다. 분리막은 폴리에틸렌(PE) 또는 폴리프로필렌(PP)으로 만들어집니다.
+
+  **Separator**: The separator is a porous membrane that prevents electrical contact between the anode and cathode. It prevents direct contact between electrodes and avoids short-circuits. The separator is made of polyethylene (PE) or polypropylene (PP).
+
+- **전해질 (Electrolyte)**: 양극과 음극 사이에서 이온의 이동을 가능하게 하는 중간 매개체로, 액체, 겔, 또는 고체 형태로 존재합니다. 전해질은 전기화학 반응을 지원하며 이온 전도성을 제공합니다.
+
+  **Electrolyte**: The electrolyte is the medium that allows ion movement between the anode and cathode. It can be in liquid, gel, or solid form. The electrolyte facilitates electrochemical reactions and provides ionic conductivity.
+
+- **케이스 (Case)**: 배터리 셀을 물리적으로 보호하고 외부 환경으로부터 방지하는 역할을 합니다. 케이스는 금속 캔 또는 알루미늄 파우치로 만들어집니다.
+
+  **Case**: The case protects the battery cell physically and shields it from external conditions. The case is made from materials like metal cans or aluminium pouches.
+
+### 이온과 전자의 이동 | Ion and Electron Movement
+
+- 방전 시 이온은 음극에서 양극으로 이동하며, 이는 전해질을 통해 이루어집니다.
+- Discharge involves the movement of ions from the anode to the cathode through the electrolyte.
+- 전자는 외부 회로를 통해 양극에서 음극으로 이동하며, 이로 인해 전기 에너지가 공급됩니다.
+
+**Electrons move from the cathode to the anode through the external circuit, generating electric power.**
