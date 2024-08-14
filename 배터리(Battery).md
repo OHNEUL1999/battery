@@ -4,9 +4,11 @@
 - [1차 전지, 2차 전지 | Primary Cell, Secondary Cell](#1차-전지-2차-전지--primary-cell-secondary-cell)
 - [리튬이온 전지형태별 종류 | Li-Ion Types](#리튬이온-전지형태별-종류--li-ion-types)
     - [Jelly Roll - Stacking vs Winding](#jelly-roll---stacking-vs-winding)
-- [리튬이온 전지 구조 | Li-Ion Cell Structure](#리튬이온-전지-구조--li-ion-cell-structure)
+- [리튬이온 전지 | Li-Ion Cell](#리튬이온-전지--li-ion-cell)
+    - [리튬이온 전지형태별 종류 | Li-Ion Types](#리튬이온-전지형태별-종류--li-ion-types)
+    - [리튬이온 전지 구조 | Li-Ion Cell Structure](#리튬이온-전지-구조--li-ion-cell-structure)
     - [방전 과정 | Discharge Process](#방전-과정--discharge-process)
-    - [이온과 전자의 이동 | Ion and Electron Movement](#이온과-전자의-이동--ion-and-electron-movement)
+        - [이온과 전자의 이동 | Ion and Electron Movement](#이온과-전자의-이동--ion-and-electron-movement)
 
 ## 배터리의 단위 | Battery Unit
 
@@ -33,7 +35,8 @@
 
 * 스웰링 현상/배부름 현상(Swelling Phenomenon/Fullness Phenomenon) : (주로 리튬이온류)배터리의 전해액이 산화하며 발생하는 가스로 인해 배터리 내부에 가스가 차는 현상
 
-## 리튬이온 전지형태별 종류 | Li-Ion Types
+## 리튬이온 전지 | Li-Ion Cell
+### 리튬이온 전지형태별 종류 | Li-Ion Types
 |구분|특징|
 |---|---|
 |원통형(Cylindrical Type)<br>![Cylindrical Type](./images/battery/cylineder.png)|- 원통형 스틸 캔 케이스<br>- 크기 작음<br>- 전통적 형태로 규격화된 사이즈
@@ -59,7 +62,7 @@
 
 * 리튬의 전착 (Electroplating) : 음극의 대면이 양극보다 큼! 아닐 경우 충전시 양극에서 빠져나운 리튬이 음극의 모서리에서 석출됨
 
-## 리튬이온 전지 구조 | Li-Ion Cell Structure
+### 리튬이온 전지 구조 | Li-Ion Cell Structure
 ![리튬이온 전지 구조 | Li-Ion Cell Structure
 ](./images/battery/li-ion_structure.png)
 
@@ -93,7 +96,7 @@
 
   **Case**: The case protects the battery cell physically and shields it from external conditions. The case is made from materials like metal cans or aluminium pouches.
 
-### 이온과 전자의 이동 | Ion and Electron Movement
+#### 이온과 전자의 이동 | Ion and Electron Movement
 
 - 방전 시 이온은 음극에서 양극으로 이동하며, 이는 전해질을 통해 이루어집니다.
 - Discharge involves the movement of ions from the anode to the cathode through the electrolyte.
