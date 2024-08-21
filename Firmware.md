@@ -17,6 +17,7 @@
 
 ## Embedded Systems
 ![Embedded Systems](./images/firmware/embedded.png)
+
 `Embedded System, 내장형 시스템`은 시스템을 동작시키는 SW를 HW에 내장하여 특수한 기능만을 수행하는 컴퓨터 시스템이다.
 `특정 요구 사항`을 가지고 있으며, `미리 정의된 작업`만을 수행한다.
 
@@ -69,12 +70,14 @@ BIOS에 비해 더 큰 하드 드라이브 지원하고 2.2TB이상의 파이션
 
 ### 부트로더
 ![Boot Loader](./images/firmware/Boot%20Loader.png)
+
 BIOS는 부트로더가 필요하다.
 
 `부트로더 Bootloader`란 OS를 메모리에 넣는 작은 프로그램(or이미지)
 
 ### 펌웨어 개발 과정
 ![FW Process](./images/firmware/FW%20Process.png)
+
 1. 요구사항 정의
 2. 툴과 기술 선택
 3. OS 사용
@@ -83,6 +86,7 @@ BIOS는 부트로더가 필요하다.
 
 ## HW vs FW vs SW
 ![HW vs FW vs SW](./images/firmware/HW%20vs%20FW%20vs%20SW.png)
+
 ### HW
 - CPU(Central Processing Unit), NPU(Neural Processing Unit), ROM(Read Only Memory), RAM(Random Access Memory), HDD(Hard Disk Drive), 각종 입출력장치 등등의 물리적인 구성요소
 - 업그레이드가 힘들거나 불가능함
