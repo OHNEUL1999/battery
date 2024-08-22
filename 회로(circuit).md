@@ -4,12 +4,13 @@
 - [소자 | Element](#소자--element)
 - [전원 | Source](#전원--source)
 - [전압 | Voltage](#전압--voltage)
-  - [옴의 법칙 | Ohm's Law](#옴의-법칙--ohms-law)
+    - [옴의 법칙 | Ohm's Law](#옴의-법칙--ohms-law)
 - [회로 해석 | Circuit Analysis](#회로-해석--circuit-analysis)
-  - [회로해석을 위한 기본단위 | Fundamental Units in Circuit Analysis and Design](#회로해석을-위한-기본단위--fundamental-units-in-circuit-analysis-and-design)
-  - [키르히호프의 법칙 | Kirchhoff's Law](#키르히호프의-법칙--kirchhoffs-law)
-  - [노드 해석법 | Node Analysis](#노드-해석법--node-analysis)
-  - [회로 기호 | Electronic Circuit Symbols](#회로-기호--electronic-circuit-symbols)
+    - [회로해석을 위한 기본단위 | Fundamental Units in Circuit Analysis and Design](#회로해석을-위한-기본단위--fundamental-units-in-circuit-analysis-and-design)
+    - [키르히호프의 법칙 | Kirchhoff's Law](#키르히호프의-법칙--kirchhoffs-law)
+    - [노드 해석법 | Node Analysis](#노드-해석법--node-analysis)
+    - [회로 기호 | Electronic Circuit Symbols](#회로-기호--electronic-circuit-symbols)
+- [참고자료 | Reference](#참고자료--reference)
 
 ## 용어 | Terminology
 
@@ -154,3 +155,8 @@
 ![소스 기호](./images/circuit/소스%20기호.png)
 - 스위치 기호
 ![스위치 기호](./images/circuit/스위치%20기호.png)
+
+## 참고자료 | Reference
+- [삼성 파운드리 용어사전](https://semiconductor.samsung.com/kr/support/tools-resources/dictionary/)
+- [최윤식. 『IT CookBook, 기초 회로이론(개정판):선형회로해석의 기본 원리』. 한빛아카데미, 2012](https://www.hanbit.co.kr/store/books/look.php?p_code=B5575452421)
+- [Khan Academy-Electrical engineering-circuit engineerign](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-circuit-analysis-overview)

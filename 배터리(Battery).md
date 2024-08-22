@@ -9,6 +9,7 @@
     - [리튬이온 전지 구조 | Li-Ion Cell Structure](#리튬이온-전지-구조--li-ion-cell-structure)
     - [방전 과정 | Discharge Process](#방전-과정--discharge-process)
         - [이온과 전자의 이동 | Ion and Electron Movement](#이온과-전자의-이동--ion-and-electron-movement)
+- [참고자료 | Reference](#참고자료--reference)
 
 ## 배터리의 단위 | Battery Unit
 
@@ -103,3 +104,9 @@
 - 전자는 외부 회로를 통해 양극에서 음극으로 이동하며, 이로 인해 전기 에너지가 공급됩니다.
 
 **Electrons move from the cathode to the anode through the external circuit, generating electric power.**
+
+## 참고자료 | Reference
+- [Davide Andrea. 『Battery Management Systems for Large Lithium-Ion Battery Packs』. Artech,2010](https://ieeexplore.ieee.org/document/9100544)
+- [배터리인사이드|BATTERY INSIDE](https://inside.lgensol.com/en/category/tech-en/)
+- [ENSOLPEDIA_2023](https://inside.lgensol.com/wp-content/themes/twentytwenty/e-book/ecatalog5.html)
+- ["각형, 원통형, 파우치형… 형태에 따른 전기차 배터리 특성", SK이노베이션뉴스룸, 2021.06.17 수정, 2024.08.14접속, https://skinnonews.com/archives/84588](https://skinnonews.com/archives/84588)

@@ -1,4 +1,4 @@
-# Firmware
+# 펌웨어 | Firmware
 
 - [Embedded Systems](#embedded-systems)
 - [펌웨어](#펌웨어)
