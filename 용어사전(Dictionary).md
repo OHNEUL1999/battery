@@ -10,6 +10,7 @@
 - [Bi-Cell 바이셀](./words/Bi-Cell_바이셀.md)
 
 #### C
+- [Cell Balancing 셀 밸런싱](./words/Cell_Balancing_셀_밸런싱.md)
 
 #### D
 
