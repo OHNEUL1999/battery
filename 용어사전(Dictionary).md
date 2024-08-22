@@ -42,6 +42,7 @@
 #### O
 
 #### P
+- [PCM: Protection Circuit Module 회로보호모듈](./words/PCM_Protection_Circuit_Module_회로보호모듈.md)
 
 #### Q
 
