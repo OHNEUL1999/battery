@@ -5,7 +5,7 @@
 활물질과 도전재로 이루어진 슬러리가 집전체에 균일하게 도포될 수 있도록 첨가하는 물질이다.
 
 #### 종류
-![kind of binder](Binder_바인더.png)
+![kind of binder](../images/words/Binder_바인더.png)
 - PVDF(Polyvinylidene Fluoride) 비수계
 - SBR(Styrene Butadiene Rubber) 수계(용매가 물이라 더 친환경적)
 - CMC(Carboxymethyl Cellulose) 수계
