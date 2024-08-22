@@ -16,6 +16,7 @@
 
 #### D
 - [Dendrite 덴드라이트](./words/Dendrite_덴드라이트.md)
+- [DoD: Depth of Discharge 방전 심도](./words/DoD_Depth_of_Discharge_방전_심도.md)
 
 #### E
 
