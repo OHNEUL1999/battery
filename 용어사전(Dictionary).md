@@ -15,6 +15,7 @@
 - [C-rate 충방전률](./words/C-rate_충방전률.md)
 
 #### D
+- [Dendrite 덴드라이트](./words/Dendrite_덴드라이트.md)
 
 #### E
 
