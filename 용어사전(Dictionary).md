@@ -19,6 +19,7 @@
 - [DoD: Depth of Discharge 방전 심도](./words/DoD_Depth_of_Discharge_방전_심도.md)
 
 #### E
+- [EMS: Energy Management System 에너지 관리 시스템](./words/EMS_Energy_Management_System_에너지_관리_시스템.md)
 
 #### F
 
