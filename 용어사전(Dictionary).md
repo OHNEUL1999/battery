@@ -11,6 +11,7 @@
 
 #### C
 - [Cell Balancing 셀 밸런싱](./words/Cell_Balancing_셀_밸런싱.md)
+- [Current Collector 집전체](./words/Current_Collector_집전체.md)
 
 #### D
 
