@@ -43,6 +43,7 @@
 
 #### P
 - [PCM: Protection Circuit Module 회로보호모듈](./words/PCM_Protection_Circuit_Module_회로보호모듈.md)
+- [PCS: Power Convention System 전력변환장치](./words/PCS_Power_Convention_System_전력변환장치.md)
 
 #### Q
 
