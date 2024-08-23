@@ -52,8 +52,9 @@
 
 #### S
 - [SEI: Solid Electrolyte Interphase 고체 전해질 계면](./words/SEI_Solid_Electrolyte_Interphase.md)
-- [SRS: Safety Reinforced Separator 안전성 강화 분리막](./words/SRS_Safety_Reinforced_Separator_안전성_강화_분리막.md)
 - [SoC: State of Charge 충전 상태](./words/SoC_State_of_Charge_충전_상태.md)
+- [SoH: State of Health 배터리 잔존 수명](./words/SoH_State_of_Health_배터리_잔존_수명.md)
+- [SRS: Safety Reinforced Separator 안전성 강화 분리막](./words/SRS_Safety_Reinforced_Separator_안전성_강화_분리막.md)
 
 #### T
 
