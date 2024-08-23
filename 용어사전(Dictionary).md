@@ -20,6 +20,7 @@
 
 #### E
 - [EMS: Energy Management System 에너지 관리 시스템](./words/EMS_Energy_Management_System_에너지_관리_시스템.md)
+- [ESS: Energy Storage System 에너지 저장 시스템](./words/ESS_Energy_Storage_System_에너지_저장_시스템.md)
 
 #### F
 
