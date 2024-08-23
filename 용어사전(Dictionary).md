@@ -52,6 +52,7 @@
 
 #### S
 - [SEI: Solid Electrolyte Interphase 고체 전해질 계면]
+- [SRS: Safety Reinforced Separator 안전성 강화 분리막]
 
 #### T
 
