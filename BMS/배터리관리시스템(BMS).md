@@ -1,14 +1,13 @@
 # 배터리 관리 시스템 | Battery Management System, BMS
 
-- [개요 | Outline]
-    - [정의 | Definition]
-    - [기능 | Function - HW]
-    - [기능 | Function - SW]
+- [개요 | Outline](#개요--outline)
+    - [정의 | Definition](#정의--definition)
+    - [기능 | Function - HW](#기능--function---hw)
+    - [기능 | Function - SW](#기능--function---sw)
     - [필요성 | Neccessafy](#필요성--necessary)
-    - [연구 동향 | Research Trends]
+    - [연구 동향 | Research Trends](#연구-동향--research-trends)
 
 ## 개요 | Outline
-
 ### 정의 | Definition
 배터리의 전압, 온도, 전류 등을 센서 기반으로 측정하여 배터리가 최적의 성능을 낼 수 있도록 제어하는 시스템<br>A system that measures battery voltage, temperature, and current using sensors to control the battery for optimal performance.
 
