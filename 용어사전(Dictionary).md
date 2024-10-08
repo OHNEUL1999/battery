@@ -5,14 +5,15 @@
 
 #### B
 - [BaaS: Battery as a Service](./words/BaaS_Battery_as_a_Service.md)
-- [BMS: Battery Management System 배터리관리시스템](./words/BMS_Battery_Management_System_배터리관리시스템.md)
 - [Binder 바인더](./words/Binder_바인더.md)
 - [Bi-Cell 바이셀](./words/Bi-Cell_바이셀.md)
+- [BMIC 배터리관리칩](./words/BMIC.md)
+- [BMS: Battery Management System 배터리관리시스템](./words/BMS_Battery_Management_System_배터리관리시스템.md)
 
 #### C
+- [C-rate 충방전률](./words/C-rate_충방전률.md)
 - [Cell Balancing 셀 밸런싱](./words/Cell_Balancing_셀_밸런싱.md)
 - [Current Collector 집전체](./words/Current_Collector_집전체.md)
-- [C-rate 충방전률](./words/C-rate_충방전률.md)
 
 #### D
 - [Dendrite 덴드라이트](./words/Dendrite_덴드라이트.md)
