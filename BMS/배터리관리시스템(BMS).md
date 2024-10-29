@@ -1,10 +1,11 @@
 # 배터리 관리 시스템 | Battery Management System, BMS
 
-- [개요 | Outline](#개요--outline)
+- [배터리 관리 시스템 | Battery Management System, BMS](#배터리-관리-시스템--battery-management-system-bms)
+  - [개요 | Outline](#개요--outline)
     - [정의 | Definition](#정의--definition)
     - [기능 | Function - HW](#기능--function---hw)
     - [기능 | Function - SW](#기능--function---sw)
-    - [필요성 | Neccessafy](#필요성--necessary)
+    - [필요성 | Necessary](#필요성--necessary)
     - [연구 동향 | Research Trends](#연구-동향--research-trends)
 
 ## 개요 | Outline

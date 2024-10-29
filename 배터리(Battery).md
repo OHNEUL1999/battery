@@ -1,17 +1,17 @@
 # 배터리 | Battery
 
-- [배터리의 단위 | Battery Unit](#배터리의-단위--battery-unit)
-- [1차 전지, 2차 전지 | Primary Cell, Secondary Cell](#1차-전지-2차-전지--primary-cell-secondary-cell)
-- [리튬이온 전지형태별 종류 | Li-Ion Types](#리튬이온-전지형태별-종류--li-ion-types)
-    - [Jelly Roll - Stacking vs Winding](#jelly-roll---stacking-vs-winding)
-- [리튬이온 전지 | Li-Ion Cell](#리튬이온-전지--li-ion-cell)
+- [배터리 | Battery](#배터리--battery)
+  - [배터리의 단위 | Battery Unit](#배터리의-단위--battery-unit)
+  - [1차 전지, 2차 전지 | Primary Cell, Secondary Cell](#1차-전지-2차-전지--primary-cell-secondary-cell)
+  - [리튬이온 전지 | Li-Ion Cell](#리튬이온-전지--li-ion-cell)
     - [리튬이온 전지형태별 종류 | Li-Ion Types](#리튬이온-전지형태별-종류--li-ion-types)
+    - [Jelly Roll - Stacking vs Winding](#jelly-roll---stacking-vs-winding)
     - [리튬이온 전지 구조 | Li-Ion Cell Structure](#리튬이온-전지-구조--li-ion-cell-structure)
     - [방전 과정 | Discharge Process](#방전-과정--discharge-process)
-        - [이온과 전자의 이동 | Ion and Electron Movement](#이온과-전자의-이동--ion-and-electron-movement)
-        - [리튬이온 전지의 충방전 | Li-ION Cell Charge/Discharge](#리튬이온-전지의-충방전--li-ion-cell-chargedischarge)
-        - [분극 현상 | Polarization](#분극-현상--polarization)
-- [참고자료 | Reference](#참고자료--reference)
+      - [이온과 전자의 이동 | Ion and Electron Movement](#이온과-전자의-이동--ion-and-electron-movement)
+      - [리튬이온 전지의 충방전 | Li-ION Cell Charge/Discharge](#리튬이온-전지의-충방전--li-ion-cell-chargedischarge)
+      - [분극 현상 | Polarization](#분극-현상--polarization)
+  - [참고자료 | Reference](#참고자료--reference)
 
 ## 배터리의 단위 | Battery Unit
 

@@ -1,11 +1,12 @@
 # 배터리 관리 시스템 설계 | Design BMS
 
-- [FW](#fw)
-    - [BMS FW 구성 및 세부 기능 | BMS FW Components & Functions](#bms-fw-구성-및-세부-기능--bms-fw-components--functions)
+- [배터리 관리 시스템 설계 | Design BMS](#배터리-관리-시스템-설계--design-bms)
+  - [FW](#fw)
+    - [BMS FW 구성 및 세부 기능 | BMS FW Components \& Functions](#bms-fw-구성-및-세부-기능--bms-fw-components--functions)
     - [BMS FW 구조 | Constructure of BMS FW](#bms-fw-구조--constructure-of-bms-fw)
-        - [드라이버 | Driver](#드라이버--driver)
-        - [모듈 | Module](#모듈--module)
-        - [엔진 | Engine](#엔진--engine)
+      - [`드라이버 | Driver`](#드라이버--driver)
+      - [`모듈 | Module`](#모듈--module)
+      - [`엔진 | Engine`](#엔진--engine)
     - [일반 FW와의 차이점 | Difference with normal FW](#일반-fw와의-차이점--difference-with-normal-fw)
 
 ![BMS](../images/bms/bms.png)
